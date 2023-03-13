@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VirtualAudio", "VirtualAudio\VirtualAudio.csproj", "{86E6B0DD-F7B6-4DEA-884D-A58475EB40AA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VirtualAudio.ConsoleApp", "VirtualAudio.Console\VirtualAudio.ConsoleApp.csproj", "{018EDA75-3A77-4E1A-B5CC-578CDBCB9366}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86E6B0DD-F7B6-4DEA-884D-A58475EB40AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86E6B0DD-F7B6-4DEA-884D-A58475EB40AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86E6B0DD-F7B6-4DEA-884D-A58475EB40AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86E6B0DD-F7B6-4DEA-884D-A58475EB40AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{018EDA75-3A77-4E1A-B5CC-578CDBCB9366}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{018EDA75-3A77-4E1A-B5CC-578CDBCB9366}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{018EDA75-3A77-4E1A-B5CC-578CDBCB9366}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{018EDA75-3A77-4E1A-B5CC-578CDBCB9366}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4DC97104-7684-4219-8381-3D16AB9E9749}
+	EndGlobalSection
+EndGlobal
